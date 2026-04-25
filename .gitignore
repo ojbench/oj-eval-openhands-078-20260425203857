@@ -8,6 +8,8 @@ code
 *.o
 *.out
 *.exe
+core.*
+*.core
 
 
 core.*
