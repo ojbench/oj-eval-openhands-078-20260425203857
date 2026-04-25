@@ -9,3 +9,7 @@ code
 *.out
 *.exe
 
+
+core.*
+*.core
+
